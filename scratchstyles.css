@@ -16,7 +16,6 @@ body {
     font-family: cursive
 
 }
-}
 
 .header{
     font-weight: bold;
@@ -33,9 +32,10 @@ li {
     font-size: 14px;
     font-style: normal;
     font-weight: normal;
-
+}
 a:hover {
     text-decoration: underline;
 }
 a:visited {
     color: blue;
+}
